@@ -1,4 +1,4 @@
-#Copyright (c) 2022 4pplet
+#Copyright (c) 2021 swampmonster
 #
 #SPDX-License-Identifier: MIT
 #
